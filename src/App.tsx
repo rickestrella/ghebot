@@ -1,6 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
 import { Hero } from './components/sections/Hero'
-import { ChatCTA } from './components/ui/ChatCTA'
 import { Navbar } from './components/layout/Navbar'
 import { Spotlight } from './components/fx/Spotlight'
 import { BackgroundTopGlow } from './components/fx/Background' // opcional
