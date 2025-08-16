@@ -2,8 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import { Hero } from './components/sections/Hero'
 import { Navbar } from './components/layout/Navbar'
 import { Spotlight } from './components/fx/Spotlight'
-import { BackgroundTopGlow } from './components/fx/Background' // opcional
-import './app.css'
+import { BackgroundTopGlow } from './components/fx/Background'
 import { ChatDock } from './components/bot/ChatDock'
 
 export default function App() {
